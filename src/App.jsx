@@ -4,7 +4,7 @@ import Calculator from './components/Calculator'
 
 const App = () => {
   return (
-    <div style={{backgroundColor:"orangered",marginLeft:"20px", padding:"50px", }}>
+    <div style={{gap:"20px" }}>
       <Clock/>
       <Calculator/>
     </div>
